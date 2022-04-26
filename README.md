@@ -1,4 +1,4 @@
-I have completed my training with Sparta Global to be a DevOps consultant. The work on this Github was done through the training.
+I am Khalis. I have completed my training with Sparta Global to be a DevOps consultant. The work on this Github was done through the training.
 
 This work includes but is not limited to:
 
